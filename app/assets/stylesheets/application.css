@@ -13,3 +13,33 @@
  *= require_tree .
  *= require_self
  */
+
+.main {
+  text-align: center;
+}
+
+ h1 {
+  color: dodgerblue;
+  font-family: 'Times New Roman', Times, serif;
+ }
+
+ .main ul {
+  padding-left: 0px;
+}
+
+i {
+  color: dodgerblue;
+}
+
+li {
+  list-style: none;
+  margin-bottom: 10px;
+}
+
+.list {
+  text-decoration: none;
+  padding: 3px;
+  background-color: dodgerblue;
+  color: white;
+  border-radius: 3px;
+}
